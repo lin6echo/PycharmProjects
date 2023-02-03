@@ -7,4 +7,5 @@ class PlayerCharacter:
 
 
 player1 = PlayerCharacter('Cindy')
+
 print(player1.name)
